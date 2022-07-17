@@ -150,21 +150,21 @@ Compétences mises en œuvre :
 
 
 <a id="BOUYGUES"></a>
-Développement d'un système embarqué de mesure de luminosité
+# Développement d'un système embarqué de mesure de luminosité
 
 [![Projet BOUYGUES](https://img.youtube.com/vi/9l8PpA120iI/0.jpg)](https://www.youtube.com/watch?v=9l8PpA120iI "Projet BOUYGUES")
 
 Réalisation de plusieurs prototypes de systèmes embarqués permettant de mesurer la couleur, fréquence et puissance de la lumière dans les villes et les bâtiments. Possibilité de mesurer le son, mais également les pollutions (via un autre démonstrateur réalisé)
 
 <a id="VIRTUOSE"></a>
-IHM web avec affichage temps réel de flux
+# IHM web avec affichage temps réel de flux
 
 [![Projet VIRTUOSE](https://img.youtube.com/vi/JZ9flRDBzac/0.jpg)](https://www.youtube.com/watch?v=JZ9flRDBzac "Projet VIRTUOSE")
 
 Réalisation d'une IHM web permettant de visualiser en temps réel des flux capteurs et caméras. Cette IHM utilisant les websockets a été portée sur plusieurs applications. A l'heure actuelle pour des soucis de rapidité de développement, j'utilise plutôt qml sous rtmaps.
 
 <a id="AIE"></a>
-Développement d'un testeur de caméra de téléphone portable pour Final Module Test au Japon et à Taiwan (AIE-ETUDES)
+# Développement d'un testeur de caméra de téléphone portable pour Final Module Test au Japon et à Taiwan (AIE-ETUDES)
 
 
 ![](images/kyec.jpg )
