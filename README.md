@@ -16,8 +16,13 @@ N'hésitez pas à cliquer sur les images pour voir les vidéos.
 * [Robotisation Scénics (UHA et FAAR industrie)](#SCENIC) 
 
 ## Exemples de travaux autres :
-* Développement d'un testeur de caméra de téléphone portable pour Final Module Test au Japon et à Taiwan (AIE-ETUDES)
-* IHM web avec affichage temps réel
+* [Développement d'un système embarqué de mesure de luminosité](#BOUYGUES) 
+* [Développement d'un testeur de caméra de téléphone portable pour Final Module Test au Japon et à Taiwan (AIE-ETUDES)](#AIE)
+* [IHM web avec affichage temps réel de flux](#VIRTUOSE) 
+* Application android d'aide à la personne
+
+
+
 
 <a id="ARGOS"></a>
 # Challenge ARGOS :
@@ -141,3 +146,31 @@ Compétences mises en œuvre :
 * Programmation RtMaps
 * Calibration des actionneurs et pilotage à distance
 
+
+
+
+<a id="BOUYGUES"></a>
+Développement d'un système embarqué de mesure de luminosité
+
+[![Projet BOUYGUES](https://img.youtube.com/vi/9l8PpA120iI/0.jpg)](https://www.youtube.com/watch?v=9l8PpA120iI "Projet BOUYGUES")
+
+Réalisation de plusieurs prototypes de systèmes embarqués permettant de mesurer la couleur, fréquence et puissance de la lumière dans les villes et les bâtiments. Possibilité de mesurer le son, mais également les pollutions (via un autre démonstrateur réalisé)
+
+<a id="VIRTUOSE"></a>
+IHM web avec affichage temps réel de flux
+
+[![Projet VIRTUOSE](https://img.youtube.com/vi/JZ9flRDBzac/0.jpg)](https://www.youtube.com/watch?v=JZ9flRDBzac "Projet VIRTUOSE")
+
+Réalisation d'une IHM web permettant de visualiser en temps réel des flux capteurs et caméras. Cette IHM utilisant les websockets a été portée sur plusieurs applications. A l'heure actuelle pour des soucis de rapidité de développement, j'utilise plutôt qml sous rtmaps.
+
+<a id="AIE"></a>
+Développement d'un testeur de caméra de téléphone portable pour Final Module Test au Japon et à Taiwan (AIE-ETUDES)
+
+
+![](images/kyec.jpg )
+
+Compétences mises en œuvre :
+* Programmation multithread CPU (OPEN MP)
+* Multi process (ipython1 et MPI)
+* Programmation GPU (CUDA)
+* Programmation Python et interfaces matérielles
